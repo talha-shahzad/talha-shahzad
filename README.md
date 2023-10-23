@@ -1,8 +1,8 @@
 ### Hi there 👋
-I am Talha Shahzad
-🔭 I’m currently Studying in FAST University
-🌱 I’m currently learning python and Artificial Intelligence
-📫  Reach me at: LinkedIn👈🏻
+Talha Shahzad Here
+🔭 Currently Studying in FAST Nuces.
+🌱 learning python and Artificial Intelligence.
+📫  Reach me at: LinkedIn 👉🏻 https://www.linkedin.com/in/talha-shahzad-552b6a263
 
 ![linkedb](https://github.com/talha-shahzad/talha-shahzad/assets/123324616/011d7c9f-31e1-449e-bcf8-894c48fe8aa3)
 
