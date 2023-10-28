@@ -1,5 +1,6 @@
 ### Hi there 👋
-![hellohand](https://github.com/talha-shahzad/talha-shahzad/assets/123324616/baf74405-8dd2-4154-823c-e3c54158620f)
+![hello viewer](https://github.com/talha-shahzad/talha-shahzad/assets/123324616/bbd1ddc8-f2d6-4680-a29c-c94171b63afe)
+
 <br>
 Talha Shahzad Here<br>
 🔭 Currently Studying in FAST Nuces.<br>
