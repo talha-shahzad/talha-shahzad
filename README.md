@@ -9,9 +9,9 @@ Talha Shahzad Here<br>
 🌱 learning python and Artificial Intelligence.<br>
 📫  Reach me at: LinkedIn 👉🏻 https://www.linkedin.com/in/talha-shahzad-552b6a263<br>
 <br>
-![linkedb](https://github.com/talha-shahzad/talha-shahzad/assets/123324616/011d7c9f-31e1-449e-bcf8-894c48fe8aa3)
+[linkedb](https://github.com/talha-shahzad/talha-shahzad/assets/123324616/011d7c9f-31e1-449e-bcf8-894c48fe8aa3)
 <br>
-### Delpoyed Resources
+**Delpoyed Resources**
 https://card-stacker.vercel.app/
 <br>
 
