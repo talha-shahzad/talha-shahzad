@@ -4,6 +4,7 @@
 <br>
 Talha Shahzad Here<br>
 ### My Portfolio : https://mine-portfolio-ivory.vercel.app/
+<br>
 🔭 Currently Studying in FAST Nuces.<br>
 🌱 learning python and Artificial Intelligence.<br>
 📫  Reach me at: LinkedIn 👉🏻 https://www.linkedin.com/in/talha-shahzad-552b6a263<br>
@@ -12,7 +13,7 @@ Talha Shahzad Here<br>
 <br>
 ## Delpoyed Resources
 https://card-stacker.vercel.app/
-
+<br>
 
 <!--
 **talha-shahzad/talha-shahzad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
