@@ -3,7 +3,7 @@
 
 <br>
 Talha Shahzad Here<br>
-### My Portfolio : https://mine-portfolio-ivory.vercel.app/
+### Porfotlio : https://mine-portfolio-ivory.vercel.app/
 <br>
 🔭 Currently Studying in FAST Nuces.<br>
 🌱 learning python and Artificial Intelligence.<br>
@@ -11,7 +11,7 @@ Talha Shahzad Here<br>
 <br>
 ![linkedb](https://github.com/talha-shahzad/talha-shahzad/assets/123324616/011d7c9f-31e1-449e-bcf8-894c48fe8aa3)
 <br>
-## Delpoyed Resources
+### Delpoyed Resources
 https://card-stacker.vercel.app/
 <br>
 
