@@ -3,11 +3,15 @@
 
 <br>
 Talha Shahzad Here<br>
+### My Portfolio : https://mine-portfolio-ivory.vercel.app/
 🔭 Currently Studying in FAST Nuces.<br>
 🌱 learning python and Artificial Intelligence.<br>
 📫  Reach me at: LinkedIn 👉🏻 https://www.linkedin.com/in/talha-shahzad-552b6a263<br>
 <br>
 ![linkedb](https://github.com/talha-shahzad/talha-shahzad/assets/123324616/011d7c9f-31e1-449e-bcf8-894c48fe8aa3)
+<br>
+## Delpoyed Resources
+https://card-stacker.vercel.app/
 
 
 <!--
