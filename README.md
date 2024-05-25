@@ -9,8 +9,7 @@ Porfotlio : https://mine-portfolio-ivory.vercel.app/
 🌱 learning python and Artificial Intelligence.<br>
 📫  Reach me at: LinkedIn 👉🏻 https://www.linkedin.com/in/talha-shahzad-552b6a263<br>
 <br>
-![linkedb](https://github.com/talha-shahzad/talha-shahzad/assets/123324616/2686ff7d-ce76-4dda-855f-528cf9a2b2d7)
-<br>
+
 ~Delpoyed Resources~
 <br>
 https://mine-portfolio-ivory.vercel.app/
