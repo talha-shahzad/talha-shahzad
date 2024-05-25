@@ -12,6 +12,8 @@ Porfotlio : https://mine-portfolio-ivory.vercel.app/
 [linkedb](https://github.com/talha-shahzad/talha-shahzad/assets/123324616/011d7c9f-31e1-449e-bcf8-894c48fe8aa3)
 <br>
 ~Delpoyed Resources~
+<br>
+https://mine-portfolio-ivory.vercel.app/
 https://card-stacker.vercel.app/
 <br>
 
