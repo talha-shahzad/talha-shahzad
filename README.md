@@ -7,7 +7,8 @@ Porfotlio : https://mine-portfolio-ivory.vercel.app/
 <br>
 🔭 Currently Studying in FAST Nuces.<br>
 🌱 learning python and Artificial Intelligence.<br>
-📫  Reach me at: LinkedIn 👉🏻 https://www.linkedin.com/in/talha-shahzad-552b6a263<br>
+📫  Reach me at: LinkedIn 👇🏻 <br>
+https://www.linkedin.com/in/talha-shahzad-552b6a263
 <br>
 
 ![linkedb](https://github.com/talha-shahzad/talha-shahzad/assets/123324616/5f02c96c-0889-41a7-bfb4-b2823056fde9)
