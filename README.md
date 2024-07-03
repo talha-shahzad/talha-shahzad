@@ -6,19 +6,17 @@ Talha Shahzad Here<br>
 Porfotlio : https://mine-portfolio-ivory.vercel.app/
 <br>
 🔭 Currently Studying in FAST Nuces.<br>
-🌱 learning python and Artificial Intelligence.<br>
+🌱 learning python and Artificial Intelligence, Machine Learning and Deep Learning<br>
+✍🏻 Interest in Learning about LLMs, RAG and Generative AI<br>
 📫  Reach me at: LinkedIn 👇🏻 <br>
 https://www.linkedin.com/in/talha-shahzad-552b6a263
 <br>
-
-![linkedb](https://github.com/talha-shahzad/talha-shahzad/assets/123324616/5f02c96c-0889-41a7-bfb4-b2823056fde9)
-
-
 <br>
 ~ Delpoyed Resources ~
 <br>
 https://mine-portfolio-ivory.vercel.app/
 https://card-stacker.vercel.app/
+https://ui-assignment-red.vercel.app/
 <br>
 
 <!--
