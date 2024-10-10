@@ -21,6 +21,7 @@ https://ui-assignment-red.vercel.app/
 Medium Blogs
 <br>
 https://medium.com/@i210540/the-new-horizon-exploring-podmans-container-evolution-639002d192e6
+https://medium.com/@i210540/pulumi-turn-complex-infrastructure-into-code-with-ease-dda225ec6986
 <!--
 **talha-shahzad/talha-shahzad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
