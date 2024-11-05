@@ -5,18 +5,26 @@
 Talha Shahzad Here<br>
 Porfotlio : https://mine-portfolio-ivory.vercel.app/
 <br>
-🔭 Currently Studying in FAST Nuces.<br>
+🔭 Pursuing studies at FAST-NUCES.<br>
 🌱 learning python and Artificial Intelligence, Machine Learning and Deep Learning<br>
 ✍🏻 Interest in Learning about LLMs, RAG and Generative AI<br>
 📫  Reach me at: LinkedIn 👇🏻 <br>
 https://www.linkedin.com/in/talha-shahzad-552b6a263
 <br>
+### Skills
+
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%231572B6.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-%23007ACC.svg?style=for-the-badge&logo=ai&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-%233498DB.svg?style=for-the-badge&logo=openai&logoColor=white)
+
 <br>
-~ Delpoyed Resources ~
-<br>
-https://mine-portfolio-ivory.vercel.app/
-https://card-stacker.vercel.app/
-https://ui-assignment-red.vercel.app/
+### Deployed Resources
+- [Portfolio](https://mine-portfolio-ivory.vercel.app/)
+- [Card Stacker](https://card-stacker.vercel.app/)
+- [UI Assignment](https://ui-assignment-red.vercel.app/)
+
 <br>
 Medium Blogs
 <br>
