@@ -27,6 +27,7 @@ Portfolio:
 ![DevOps](https://img.shields.io/badge/DevOps-%23039BE5.svg?style=for-the-badge&logo=devops&logoColor=white)
 
 <br>
+
 ### Deployed Resources
 
 - [Portfolio](https://mine-portfolio-ivory.vercel.app/)
