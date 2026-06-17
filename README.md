@@ -5,7 +5,7 @@
 Talha Shahzad Here<br>
 Portfolio: 
 
-[mine-portfolio](https://mine-portfolio-ivory.vercel.app/)
+[Portfolio](https://talhas-portfolio-gamma.vercel.app/)
 <br>
 <br>
 🔭 Pursuing studies at FAST-NUCES.<br>
